@@ -1,0 +1,20 @@
+[
+    {
+        "articul": "1",
+        "title": "Бэнг",
+        "cost": 500,
+        "image": "https://nastolkino.com.ua/content/images/29/1024x768l80bc60/bang_ukr-19010164199538.webp"
+    },
+    {
+        "articul": "2",
+        "title": "Мафия",
+        "cost": 150,
+        "image": "https://nastolkino.com.ua/content/images/49/580x1036l80bc60/mafiya._vsya_semya_v_sbore_mafia-47517872270610.webp"
+    },
+    {
+        "articul": "3",
+        "title": "Манчкин",
+        "cost": 550,
+        "image": "https://nastolkino.com.ua/content/images/40/819x1080l80bc60/manchkin_munchkin-35477434843778.webp"
+    }
+]
