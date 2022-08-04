@@ -34,6 +34,11 @@
         "title": "Чужая планета",
         "cost": 600,
         "image": "https://nastolkino.com.ua/content/images/41/1120x1200l80bc60/not_alone_ukr-37435747892674.webp"
+    },
+    {
+        "articul": "7",
+        "title": "Дженга",
+        "cost": 800,
+        "image": "https://nastolkino.com.ua/content/images/15/556x642l80bc60/58593704468674.webp"
     }
 ]
-

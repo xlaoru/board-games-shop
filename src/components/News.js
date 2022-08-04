@@ -11,6 +11,10 @@ const News = () => {
             <div className='news-cell'>
                 v2.0 - Добавлена grid сетка для удобного построения товара. {<br/>} Добавлена точная валюта при расчете самого товара и итоговой цены
             </div>
+            <hr className='separator' />
+            <div className='news-cell'>
+                v2.1 - Тест grid системы. Добавление нового товара
+            </div>
         </div>
     );
 };
