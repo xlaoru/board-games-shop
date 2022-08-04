@@ -16,5 +16,24 @@
         "title": "Манчкин",
         "cost": 550,
         "image": "https://nastolkino.com.ua/content/images/40/819x1080l80bc60/manchkin_munchkin-35477434843778.webp"
+    },
+    {
+        "articul": "4",
+        "title": "Каркассон",
+        "cost": 800,
+        "image": "https://nastolkino.com.ua/content/images/42/992x1595l80bc60/karkasson_carcassonne-31589528131816.webp"
+    },
+    {
+        "articul": "5",
+        "title": "Мафия",
+        "cost": 200,
+        "image": "https://nastolkino.com.ua/content/images/49/580x1036l80bc60/mafiya._vsya_semya_v_sbore_mafia-47517872270610.webp"
+    },
+    {
+        "articul": "6",
+        "title": "Чужая планета",
+        "cost": 600,
+        "image": "https://nastolkino.com.ua/content/images/41/1120x1200l80bc60/not_alone_ukr-37435747892674.webp"
     }
 ]
+

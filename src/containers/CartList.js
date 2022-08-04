@@ -40,7 +40,7 @@ const CartList = () => {
     return (
         <div className='CartList' onClick={clickHandler}>
             <br />
-            <div className='totall-price' style={{'display': 'flex', 'justifyContent': 'left'}}>&nbsp;&nbsp;Итоговая Цена: {totallPrice}</div><br />
+            <div className='totall-price' style={{'display': 'flex', 'justifyContent': 'left'}}>&nbsp;&nbsp;Итоговая Цена: {totallPrice} грн</div><br />
             <hr />
             <div style={{'display': 'flex', 'justifyContent': 'left' }}>&nbsp;&nbsp; Продукт &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;  Название &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;  Цена &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;  Кол-во продукта &nbsp;&nbsp;&nbsp;&nbsp;</div>
             {Object.keys(cart).map(item => <Cart key={item + gamesObj[item]['title']} gameName={gamesObj[item]['title']} gamesAmount={cart[item]} gameCost={gamesObj[item]['cost']} articul={item} image={gamesObj[item]['image']}/>)}
