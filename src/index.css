@@ -7,6 +7,3 @@ body {
   -moz-osx-font-smoothing: grayscale;
 }
 
-.nav-item .active {
-  background-color: rgb(115, 146, 230);
-}

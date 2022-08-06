@@ -15,6 +15,10 @@ const News = () => {
             <div className='news-cell'>
                 v2.1 - Тест grid системы. Добавление нового товара
             </div>
+            <hr className='separator' />
+            <div className='news-cell'>
+                v3.0 - Приведение хедера в порядок. Подбор иконки для корзины
+            </div>
         </div>
     );
 };
