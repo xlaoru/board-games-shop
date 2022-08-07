@@ -1,5 +1,4 @@
 import React from 'react';
-import './News.css'
 
 const News = () => {
     return (
@@ -18,6 +17,10 @@ const News = () => {
             <hr className='separator' />
             <div className='news-cell'>
                 v3.0 - Приведение хедера в порядок. Подбор иконки для корзины
+            </div>
+            <hr className='separator' />
+            <div className='news-cell'>
+                v4.0 - Реализован поиск по названию товара. Все UI атрибутика перенесенна в отдельный файл. {<br/>} Изменен один товар с ошибкой
             </div>
         </div>
     );

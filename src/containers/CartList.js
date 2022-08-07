@@ -9,7 +9,6 @@ import {
 import Cart from '../components/Cart';
 import {decrement, forceDelete} from '../store/CartSlice'
 import {useDispatch} from 'react-redux'
-import './CartList.css'
 
 const CartList = () => {
     const games = useSelector(selectGames)
