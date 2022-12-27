@@ -5,7 +5,6 @@ import {
 } from '../store/GamesSlice'
 import Games from '../components/Games'
 import {increment} from '../store/CartSlice'
-import './GamesList.css'
 
 const GamesList = () => {
     const games = useSelector(selectGames)

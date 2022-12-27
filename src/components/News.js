@@ -26,6 +26,10 @@ const News = () => {
             <div className='news-cell'>
                 v5.0 - Изменен подход к поиску товаров.
             </div>
+            <hr className='separator' />
+            <div className='news-cell'>
+                v5.1 - Дэбаг ошибки с файлом GamesList.css
+            </div>
         </div>
     );
 };
